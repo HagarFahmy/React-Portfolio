@@ -1,0 +1,175 @@
+{
+    "deals": [
+      { "id": 1, 
+        "title": "Bags", 
+        "image": "https://media.istockphoto.com/photos/woman-is-holding-bag-canvas-fabric-for-mockup-blank-template-picture-id1148884819?k=20&m=1148884819&s=612x612&w=0&h=TmqGdXIUtVocSoRidWVGIfe93IfK8kXtX43x6TxQalY=",
+        "desc": "Try It Now! Create Your Own Online Store and Start Selling Today. "
+    },
+    { "id": 2, 
+        "title": "T-shirt", 
+        "image": "https://media.istockphoto.com/photos/retail-display-picture-id1321332389?b=1&k=20&m=1321332389&s=170667a&w=0&h=sYZ9F08zhi8C6m7sg3TXb-2uBC49M_h1kYUHxGcy5FE=",
+        "desc": "Try It Now! Create Your Own Online Store and Start Selling Today. "
+
+    },
+    { "id": 1, 
+        "title": "Jeans", 
+        "image": "https://images.unsplash.com/photo-1584382296103-92ddc0921fa0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8amVhbnN8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "desc": "Try It Now! Create Your Own Online Store and Start Selling Today."
+    },{ "id": 1, 
+        "title": "Shoes", 
+        "image": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "desc": "Try It Now! Create Your Own Online Store and Start Selling Today."
+    }
+    ],
+
+    "products": [
+      { "id": 1,
+        "name": "some product",
+        "image": "https://media.istockphoto.com/photos/young-handsome-man-in-classic-suit-over-the-lake-background-picture-id1300966679?b=1&k=20&m=1300966679&s=170667a&w=0&h=KbwGRDDRdBsjKJdifA80Ak3ZtpWvufsY_RTn_JVl73A=" ,
+        "price":20,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+        "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 2,
+        "name": "some product",
+        "image": "https://media.istockphoto.com/photos/elegant-gentleman-picture-id639275740?b=1&k=20&m=639275740&s=170667a&w=0&h=-eK-vlPEnROGLxxf4ayoRdSbEGggSo_tsyffhKlUsLA=" ,
+        "price":12,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 3,
+        "name": "some product",
+        "image": "https://media.istockphoto.com/photos/hipster-wearing-white-blank-tshirt-with-space-for-your-logo-picture-id542577988?b=1&k=20&m=542577988&s=170667a&w=0&h=-6tpXa9XpqGq-CQx1WSp6XdXpxZ-SSXyj0o2V_MtV4U=" ,
+        "price":18,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 4,
+        "name": "some product",
+        "image": "https://media.istockphoto.com/photos/two-guys-stand-in-an-abandoned-building-on-lake-picture-id486942132?k=20&m=486942132&s=612x612&w=0&h=bW6_NatbH1W-5XFExZfhclhvU7Ev5hGASORlWxjehMc=" ,
+        "price":10,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 5,
+        "name": "some product",
+        "image": "https://media.istockphoto.com/photos/elegant-gentleman-picture-id639275740?b=1&k=20&m=639275740&s=170667a&w=0&h=-eK-vlPEnROGLxxf4ayoRdSbEGggSo_tsyffhKlUsLA=" ,
+        "price":200,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 5, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 6,
+        "name": "some product",
+        "image": "https://media.istockphoto.com/photos/two-guys-stand-in-an-abandoned-building-on-lake-picture-id486942132?k=20&m=486942132&s=612x612&w=0&h=bW6_NatbH1W-5XFExZfhclhvU7Ev5hGASORlWxjehMc=" ,
+        "price":20,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 4, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 7,
+        "name": "some product",
+        "image": "https://media.istockphoto.com/photos/elegant-gentleman-picture-id639275740?b=1&k=20&m=639275740&s=170667a&w=0&h=-eK-vlPEnROGLxxf4ayoRdSbEGggSo_tsyffhKlUsLA=" ,
+        "price":12,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 8,
+        "name": "some product",
+        "image": "https://images.unsplash.com/photo-1619785292559-a15caa28bde6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG1vZGVsJTIwZ2lybHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60" ,
+        "price":18,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 9,
+        "name": "some product",
+        "image": "https://media.istockphoto.com/photos/two-guys-stand-in-an-abandoned-building-on-lake-picture-id486942132?k=20&m=486942132&s=612x612&w=0&h=bW6_NatbH1W-5XFExZfhclhvU7Ev5hGASORlWxjehMc=" ,
+        "price":10,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 10,
+        "name": "some product",
+        "image": "https://images.unsplash.com/photo-1616529735204-6799853ed36f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1vZGVsJTIwZ2lybHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60" ,
+        "price":200,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 11,
+        "name": "some product",
+        "image": "https://images.unsplash.com/photo-1534679949574-9c91880cf453?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fG1vZGVsJTIwZ2lybHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60" ,
+        "price":10,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    },
+    { "id": 12,
+        "name": "some product",
+        "image": "https://images.unsplash.com/photo-1618374685125-9c75874e69f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fG1vZGVsJTIwZ2lybHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60" ,
+        "sizes":[
+            {"id":1,"size":"S"},
+            {"id":2,"size":"M"},
+            {"id":3,"size":"L"},
+            {"id":4,"size":"XL"}],
+            "rating": {"rate": 3.9, "count": 120},
+        "price":200,
+        "desc":"Try It Now! Create Your Own Online Store and Start Selling Today. Build Your Online Store - Free, Fast & Easy. Try It Now & Grow Your Business! Various Payment Solutions. Customizable online store. SEO wizard. 24/7 support center. Multiple payment methods."
+    }
+    ],
+    "profile": { "name": "typicode" },
+    "cart":[
+        
+    ]
+  }
