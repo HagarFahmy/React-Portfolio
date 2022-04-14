@@ -1,0 +1,10 @@
+#empty{
+font-size: x-large;
+color: rgb(131, 131, 181);
+margin: 1rem auto;
+width: 50vw;
+}
+#container{
+    width: 50vw;
+    margin: 1rem auto;
+}
