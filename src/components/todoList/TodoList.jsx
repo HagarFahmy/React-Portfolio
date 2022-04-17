@@ -6,11 +6,11 @@ function TodoList({ todoData,deleteItem }) {
           todoData && todoData.length>0 ? todoData.map((item , index )=>{
               return(
                   <div className="border m-5 p-3" key={index}>
-                      <span>title</span>
+                      <h4>title</h4>
                       <p>{item.title}</p>
-                      <span>Contant</span>
+                      <h4>Contant</h4>
                       <p>{item.content}</p>
-                      <button onClick={()=>{deleteItem(index)}} className=' btn btn-outline-secondary'>XxX</button>
+                      <button onClick={()=>{deleteItem(index)}} className=' btn btn-primary'>X</button>
                   </div>
               )
 

@@ -3,7 +3,6 @@ ul{
     justify-content: space-around;
     align-items: center;
     background-color: black;
-    margin: .5rem;
     padding: 1rem;
 }
 li {
