@@ -9,6 +9,7 @@ import Navbar from './components/navbar/Navbar';
 import ProductDetails from './components/productDetails/ProductDetails';
 import Todo from './components/todoList/Todo'
 import FormComponent from './components/form/Form';
+import ExpenceTracker from './components/expense-tracker/ExpenceTracker';
 function App() {
   return (
     <>
@@ -16,7 +17,7 @@ function App() {
       <Navbar/>
         <Routes>
           <Route path='counter' element={<CounterContainer/>}/>
-          <Route path='/' element={<Home />} />
+          <Route path='/' element={<ExpenceTracker />} />
           <Route path='/about' element={<About />} />
           <Route path='/products' element={<Products />} />
           <Route path='products/:id' element={<ProductDetails/>}/>

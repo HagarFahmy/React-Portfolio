@@ -1,11 +1,11 @@
-ul{
+.nav-ul{
     display: flex;
     justify-content: space-around;
     align-items: center;
     background-color: black;
     padding: 1rem;
 }
-li {
+.nav-li {
     list-style-type: none  ; 
 }
 a{

@@ -7,7 +7,7 @@ import ReactStars from "react-rating-stars-component";
 function Products() {
     const [products, setProducts] = useState(null);
     function fetchProducts() {
-        fetch('http://localhost:5500/products')
+        fetch('https://fakestoreapi.com/products')
             .then(res => res.json())
             .then(json => setProducts(json))
     }

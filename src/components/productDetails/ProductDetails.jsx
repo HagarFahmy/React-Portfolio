@@ -6,7 +6,7 @@ function ProductDetails() {
     const params = useParams();
     const [product, setProduct] = useState(null);
     function fetchProduct() {
-        fetch(`http://localhost:5500/products/${params.id}`)
+        fetch(`https://fakestoreapi.com/products/${params.id}`)
             .then(res => res.json())
             .then(json => setProduct(json))
 
